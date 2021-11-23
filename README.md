@@ -1,3 +1,3 @@
 # YoRPG_BPK
-YoRPG for Team BPK, Team 7
-: Ben, Perry, Kosta
+YoRPG for Team BPK:
+Ben, Perry, Kosta
