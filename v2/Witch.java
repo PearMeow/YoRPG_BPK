@@ -7,4 +7,9 @@ _attack = 0.07;
 
 }
 
+public static void about()
+{
+  System.out.println("High strength, low attack. Witch lifts.");
+}
+
 }
