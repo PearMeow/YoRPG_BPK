@@ -9,7 +9,7 @@ _attack = 0.1;
 
 public static void about()
 {
-  System.out.println("High strength, low attack.");
+  System.out.println("Elf: High strength, low attack.");
 }
 
 

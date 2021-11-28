@@ -9,7 +9,7 @@ public Tank  () {
 
 public static void about()
 {
-  System.out.println("High health and defense, but low attack.");
+  System.out.println("Tank: High health and defense, but low attack.");
 }
 
 

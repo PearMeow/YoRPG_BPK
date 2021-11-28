@@ -7,7 +7,7 @@ public Wizard () {
 
 public static void about()
 {
-  System.out.println("High attack, low health.");
+  System.out.println("Wizard: High attack, low health.");
 }
 
 
