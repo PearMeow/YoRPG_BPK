@@ -7,4 +7,10 @@ public Tank  () {
 
 }
 
+public static void about()
+{
+  System.out.println("High health and defense, but low attack.");
+}
+
+
 }

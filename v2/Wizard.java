@@ -5,4 +5,10 @@ public Wizard () {
   _hitPts = 80;
 }
 
+public static void about()
+{
+  System.out.println("High attack, low health.");
+}
+
+
 }

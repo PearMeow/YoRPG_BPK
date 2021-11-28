@@ -8,4 +8,9 @@ _defense = 30;
 
 }
 
+public static void about()
+{
+  System.out.println("High health and defense, low attack.");
+}
+
 }
