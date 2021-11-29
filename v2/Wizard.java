@@ -7,7 +7,7 @@ public Wizard () {
 
 public static void about()
 {
-  System.out.println("Wizard: High attack, low health.");
+  System.out.println("Wizard: High attack, low health. Throws deadly fireballs at the enemy. Dies in one hit to almost every other class, so don't go anywhere without a Tank");
 }
 
 
