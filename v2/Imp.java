@@ -10,7 +10,7 @@ _defense = 5;
 
   public static void about()
 {
-  System.out.println("Imp: High attack, low defense and health.");
+  System.out.println("Imp: High attack, low defense and health. Easy to kill, easy to be killed by. Don't let their diminutive size fool you.");
 }
 
 
