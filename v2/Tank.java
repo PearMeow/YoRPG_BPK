@@ -9,7 +9,7 @@ public Tank  () {
 
 public static void about()
 {
-  System.out.println("Tank: High health and defense, but low attack.");
+  System.out.println("Tank: High health and defense, but low attack. Heavy armored warrior ideal for protecting everyone behind. Your teammates will thank you.");
 }
 
 
